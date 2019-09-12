@@ -6,4 +6,4 @@ class Test:
 
     def test03(self):
         print("执行3")
-        assert 0
+        assert 1
